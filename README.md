@@ -1,79 +1,99 @@
-<!-- 🔥 Animated Header -->
-<h1 align="center">Hi there, I'm <strong>Ega Abhista</strong> 👋</h1>
-<h3 align="center">RPL Student | Backend Enjoyer | Tech Explorer 🚀</h3>
+<!-- ✨ Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+there%2C+I'm+Ega+Abhista!+👋;Backend+Developer+in+the+making+🚀;Tech+Explorer+%7C+RPL+Student+%7C+Hiker+🌄;Let's+build+cool+things+together+⚡">
+</p>
 
 ---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/egaabhst)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/egaabhista)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:egaabhista.lamarankerja@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/egaabhista)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:egaabhista.lamarankerja@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/egaabhista)
 
 ---
 
-## 👤 About Me
-- 🔭 Currently learning **Backend Development** (Laravel, PHP, Database Management)  
-- 🚀 Active in OSIS, Pecinta Alam, and several school projects  
-- 🌱 Building systems like **Online Library**, **Employee Registration**, **Kos Booking System**, etc  
-- ☕ Coffee + Night Reading = Perfect Combo  
-- 🎒 Hobbies: Hiking, exploring nature, and learning new tech  
+# 🧑‍💻 About Me
+- 🎓 12th Grade Software Engineering Student at **SMK Telkom Malang**
+- 💼 Exploring **Backend Development**, **API Security**, and **Databases**
+- 🧭 Member of **OSIS**, **PALWAGA**, and active in leadership activities
+- 🌄 Loves hiking 
+- ☕ Night reader who codes with coffee  
+- 🎵 Enjoyer of **Math Rock** & **Midwest Emo**  
+- 🤝 Always open for collaboration, learning, and new challenges
 
 ---
 
-## 🛠️ Current Focus
-- Backend API (Laravel + JWT)
-- Database optimization (MySQL, PostgreSQL, Oracle)
-- Fullstack exploration (React, Next.js, Vite)
-- DevOps basics (Docker soon ✨)
+# ⚡ What I Do
+- Build & secure REST APIs (Laravel + JWT)  
+- Develop fullstack applications (React / Next.js)  
+- Design normalized & optimized databases  
+- Create school and community projects (library system, kos booking, employee registration, etc.)  
+- Constantly learning new tools and frameworks  
 
 ---
 
-# 💻 Tech Stack:
+# 🚀 Featured Projects
+- 📚 **Online Library System** — PHP + MySQL + Admin Panel  
+- 🏠 **Kost Booking App** — Laravel API + Role System (Owner & Society)  
+- 🧾 **Employee Registration System** — Form validation + REST API  
+- 🗻 **Hiking Assistance App** — Map, Gear Shop, Ticketing, Lodging & more  
+
+---
+
+# 💻 Tech Stack
+(Your existing tech stack stays — no need to change)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Java](...)
+... *(the whole list stays the same)*
 
 ---
 
-# 🧰 Tools & Workspace:
+# 🧰 Tools I Use
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=egaabhista&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=egaabhista&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=egaabhista&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=egaabhista&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=egaabhista&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=egaabhista&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-## 🏆 Achievements  
+# 🏆 Achievements
 ![trophy](https://github-profile-trophy.vercel.app/?username=egaabhista&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+# 🎧 Vibes (Currently Listening To)
+![Spotify](https://img.shields.io/badge/Midwest%20Emo-%2300FFB3.svg?logo=spotify&logoColor=black)
+- **American Football – Never Meant**  
+- **Hope You Found Me - Eastcape**  
+- **Graduation Song - Murphy Radio**  
+- **your head as my favourite bookstore - eleventwelfth**  
+
+(You can customize this if you want a “Now Playing” Spotify widget.)
+
+---
+
+# 🌄 Hiking Journey
+- 🏔️ 10 - 12 mountains conquered  
+- 🌿 Member of **Wana Arga (PALWAGA)** — Coordinator of Technician & Hydroponic System  
+- 🔥 “Find peace in the climb and strength in the view.”  
+
+---
+
+# 🔥 Fun Facts
+- I drink coffee like it’s compiler fuel  
+- Coding while listening to midwest emo hits different  
+- Can debug faster at night (superpower unlocked at 1 AM)  
+- Hiking resets my mental RAM  
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=egaabhista&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
